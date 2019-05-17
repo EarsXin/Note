@@ -28,7 +28,7 @@ class MethodBeforeAdviceAdapter implements AdvisorAdapter, Serializable {
 }
 ```
 
-![开闭原则](./img/HandlerAdapter.png)
+![SpringAop HandlerAdapter](./img/HandlerAdapter.png)
 
 ## 优缺点
 
