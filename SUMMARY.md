@@ -17,6 +17,7 @@
 * [读书笔记](read_note/README.md)
     * [01 知行 - 技术人的管理之路](read_note/知行_管理路口的彷徨.md)
 * [产品调研](product_research/README.md)
+    * [01 飞聊 - 让兴趣相遇](product_research/飞聊_让兴趣相遇.md)
 * [开源项目](open_source_application/README.md)
     * [喜马拉雅](open_source_application/open_source_segmentTime.md)
 
