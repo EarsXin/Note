@@ -16,6 +16,8 @@
 * [源码解读-Vue](source_vue/README.md)
 * [读书笔记](read_note/README.md)
     * [01 知行 - 技术人的管理之路](read_note/知行_管理路口的彷徨.md)
+* [写作记录](write_record/README.md)
+    * [01 我为什么参加 21 天爱上写作训练营](write_record/01 我为什么参加 21 天爱上写作训练营.md)
 * [产品调研](product_research/README.md)
     * [01 飞聊 - 让兴趣相遇](product_research/飞聊_让兴趣相遇.md)
 * [开源项目](open_source_application/README.md)
